@@ -8,6 +8,7 @@
 # Django
 MEDIA
 static
+hosts
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
